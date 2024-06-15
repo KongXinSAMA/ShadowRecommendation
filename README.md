@@ -17,5 +17,6 @@ If you want to train the model manually
 some code references the following work  
 * https://github.com/Dingseewhole/Robust_Deconfounder_master  
 * https://github.com/BgmLover/iDCF
-* https://github.com/AIflowerQ/InvPref_KDD_2022  
+* https://github.com/AIflowerQ/InvPref_KDD_2022
+  
 Thanks for their contributions!
