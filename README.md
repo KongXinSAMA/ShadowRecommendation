@@ -1,3 +1,5 @@
+# SBR
+A Novel Shadow Variable Catcher for Addressing Selection Bias in Recommendation Systems published at ICDM 2024.
 # Operating Environment
 The experiments were run on NVIDIA GeForce RTX 4060, 12th Gen Intel(R) Core(TM) i5-12400F   2.50 GHz.  
 Compiler is Python 3.8.18 and required mainly the following packages:  
