@@ -1,5 +1,15 @@
 # SBR
-A Novel Shadow Variable Catcher for Addressing Selection Bias in Recommendation Systems published at ICDM 2024.
+<A Novel Shadow Variable Catcher for Addressing Selection Bias in Recommendation Systems> published at ICDM 2024. If this helps please cite
+@INPROCEEDINGS{10884284,
+  author={Chen, Qingfeng and Wei, Boquan and Cheng, Debo and Li, Jiuyong and Liu, Lin and Zhang, Shichao},
+  booktitle={2024 IEEE International Conference on Data Mining (ICDM)}, 
+  title={A Novel Shadow Variable Catcher for Addressing Selection Bias in Recommendation Systems}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={71-80},
+  keywords={Training;Accuracy;Collaborative filtering;Prevention and mitigation;Static VAr compensators;Data models;Robustness;Real-time systems;Data mining;Recommender systems;Causal Inference;Recommender Systems;Se-lection Bias;Shadow Variables},
+  doi={10.1109/ICDM59182.2024.00014}}
 # Operating Environment
 The experiments were run on NVIDIA GeForce RTX 4060, 12th Gen Intel(R) Core(TM) i5-12400F   2.50 GHz.  
 Compiler is Python 3.8.18 and required mainly the following packages:  
