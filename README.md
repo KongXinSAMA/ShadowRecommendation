@@ -1,5 +1,5 @@
-# SBR
-"A Novel Shadow Variable Catcher for Addressing Selection Bias in Recommendation Systems" published at ICDM 2024.
+# SDR
+"A Novel Shadow Variable Catcher for Addressing Selection Bias in Recommendation Systems" published at ICDM 2024 .
 
 If this helps please cite 
 
