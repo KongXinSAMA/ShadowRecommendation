@@ -1,7 +1,7 @@
 # SDR
-Code resource for the article "A Novel Shadow Variable Catcher for Addressing Selection Bias in Recommendation Systems" published at ICDM 2024 .
+Code resource for the article "A Novel Shadow Variable Catcher for Addressing Selection Bias in Recommendation Systems" published at **ICDM 2024** .
 
-This paper conducts experiments based on the PyTorch framework, improving the neural collaborative recommendation system by introducing the concept of shadow variables from causal inference. It employs an adapted IVAE (nonlinear ICA variational autoencoder) to capture relevant shadow variables as intermediate variables. Compared to the original neural collaborative recommendation system, the model constructed in this paper adds only one additional dot product operation during inference, while achieving a 15.37% increase in metric NDGC@5 and a 10.01% increase in metric Recall@5.
+This paper conducts experiments based on the **PyTorch** framework, improving the neural collaborative recommendation system by introducing the concept of shadow variables from causal inference. It employs an adapted IVAE (nonlinear ICA variational autoencoder) to capture relevant shadow variables as intermediate variables. Compared to the original neural collaborative recommendation system, the model constructed in this paper adds only one additional dot product operation during inference, while achieving a 15.37% increase in metric NDGC@5 and a 10.01% increase in metric Recall@5.
 
 If this helps please cite 
 
